@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Material Tabs</string>
+    <string name="action_settings">Settings</string>
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+    <string name="four">Four</string>
+    <string name="five">Five</string>
+    <string name="six">Six</string>
+    <string name="seven">Seven</string>
+    <string name="eight">Eight</string>
+    <string name="nine">Nine</string>
+    <string name="ten">Ten</string>
+    <string name="title_activity_scrollable_tabs">Scrollable Tabs</string>
+    <string name="title_activity_simple_tabs">Simple Tabs</string>
+    <string name="btn_simple_tabs">Simple Tabs</string>
+    <string name="btn_scrollable_tabs">Scrollable Tabs</string>
+    <string name="btn_icon_text_tabs">Icon &amp; Text Tabs</string>
+    <string name="btn_icon_tabs">Only Icon Tabs</string>
+    <string name="btn_pinned_top_tabs">Pinned To Top Tabs</string>
+    <string name="title_activity_icon_text_tabs">Icon and Text Tabs</string>
+    <string name="title_activity_icon_tabs">Icon Tabs</string>
+    <string name="btn_custom_icon_tabs">Custom View Icon &amp; Text</string>
+    <string name="title_activity_custom_view_icon_text_tabs">Custom View Icon &amp; Text</string>
+    <string name="title_activity_pinned_top_tabs">Pin Top Tabs</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="hello_world">Hello world!</string>
+</resources>
